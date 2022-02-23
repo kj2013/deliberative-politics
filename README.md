@@ -26,31 +26,18 @@ Each observation was labeled for each of the deliberative qualities with a 0, 1,
 message_id and message: an id and the text of the tweet
 relevance: see coding scheme, codes whether the tweet is relevant to politics.
 >>positive: whether the tweet shows empathy and respect (note that "positive" means empathy and respect)
-
 >>uncivil: any kind of incivility, whether, abuse, threat, or exaggeration
-
-uncivil_abuse: incivility that is abusive (see coding scheme)
-
-uncivil_threat: incivility that involves threats (see coding scheme)
-
-uncivil_exag: incivility that involves exaggerated claims (see coding scheme)
-
-reciprocal: deliberation which involves a genuine question (supposed to encode engagement)
-
-justif: justification whether internal or external.
-
-justif_int: internal justification
-
-justif_ext: external justification
-
-const: constructiveness whether fact-checking, solution-finding, or common-ground-finding
-
-const_fact: constructiveness involving fact-checking behavior
-
-const_com: constructiveness involving common ground finding
-
-const_sol: constructiveness involving solution finding
-
-len: length of tweet (is not used as an iv)
+>>uncivil_abuse: incivility that is abusive (see coding scheme)
+>>uncivil_threat: incivility that involves threats (see coding scheme)
+>>uncivil_exag: incivility that involves exaggerated claims (see coding scheme)
+>>reciprocal: deliberation which involves a genuine question (supposed to encode engagement)
+>>justif: justification whether internal or external.
+>>justif_int: internal justification
+>>justif_ext: external justification
+>>const: constructiveness whether fact-checking, solution-finding, or common-ground-finding
+>>const_fact: constructiveness involving fact-checking behavior
+>>const_com: constructiveness involving common ground finding
+>>const_sol: constructiveness involving solution finding
+>>len: length of tweet (is not used as an iv)
 
 
