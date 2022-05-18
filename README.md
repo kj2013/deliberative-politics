@@ -1,9 +1,8 @@
 # twitter-deliberative-politics
 
-Please do not share without permission from Kokil Jaidka, kokil.jaidka@gmail.com
-For now, you can cite our JoC paper if you use these predictive models or annotated data.
+Cite:
 
-Jaidka, K., Zhou, A., & Lelkes, Y. (2019). Brevity is the soul of Twitter: The constraint affordance and political discussion. Journal of Communication, 69(4), 345-372.
+
 
 Dashboard for model inspection:
 https://share.streamlit.io/sriramelango/nus-political-discourse-quality/app.py
@@ -47,3 +46,11 @@ relevance: see coding scheme, codes whether the tweet is relevant to politics.
 >>len: length of tweet (is not used as an iv)
 
 
+########################References
+
+Jaidka, K. (Under review). Talking politics: Building and evaluating data-driven lexica to measure political discussion quality. SSRN.
+
+Jaidka, K. (2022). Developing a multilabel corpus for the quality assessment of online political talk. In Proceedings of the 13th language resources and evaluation conference (Vol. 13).
+
+
+Jaidka, K., Zhou, A., & Lelkes, Y. (2019). Brevity is the soul of Twitter: The constraint affordance and political discussion. Journal of Communication, 69(4), 345-372.
