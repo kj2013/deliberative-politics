@@ -5,6 +5,12 @@ For now, you can cite our JoC paper if you use these predictive models or annota
 
 Jaidka, K., Zhou, A., & Lelkes, Y. (2019). Brevity is the soul of Twitter: The constraint affordance and political discussion. Journal of Communication, 69(4), 345-372.
 
+Dashboard for model inspection:
+https://share.streamlit.io/sriramelango/nus-political-discourse-quality/app.py
+
+Models used in the dashboard:
+Are in the pickles folder
+
 Other resources corresponding to this paper are at:
 https://osf.io/u2nfp/
 
