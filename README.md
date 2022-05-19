@@ -6,6 +6,8 @@ This repository contains the Twitter Deliberative Politics and the CLAPTON (Corp
 Dashboard for model inspection:
 https://share.streamlit.io/sriramelango/nus-political-discourse-quality/app.py
 
+The dashboard is for illustrative purposes, and the text pre-processing may not exactly follow what was reported in the paper for the sake of speed. We are working on optimizing the dashboard to accurately reflect the models in the paper. 
+
 Models used in the dashboard:
 Are in the pickles folder
 
