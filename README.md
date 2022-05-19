@@ -1,7 +1,6 @@
 # twitter-deliberative-politics
 
-Cite:
-
+The Twitter Deliberative Politics and the CLAPTON (Corpus for the Linguistic Analysis of Political Talk ONline) datasets of social media posts annotated for facets of discussion quality.
 
 
 Dashboard for model inspection:
