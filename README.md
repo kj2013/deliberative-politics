@@ -1,6 +1,6 @@
 # Deliberative-politics 
 
-This repository contains the Twitter Deliberative Politics and the CLAPTON (Corpus for the Linguistic Analysis of Political Talk ONline) datasets of social media posts annotated for facets of discussion quality.
+This repository contains the data and materials related to Twitter Deliberative Politics and the CLAPTON (Corpus for the Linguistic Analysis of Political Talk ONline) datasets of social media posts annotated for facets of discussion quality.
 
 
 Dashboard for model inspection:
@@ -12,7 +12,7 @@ Models used in the dashboard:
 Are in the pickles folder
 
 Other resources corresponding to this paper are at:
-https://osf.io/u2nfp/
+https://osf.io/28esd/
 
 Which variables to use?
 Please refer to the most recent results discussed at 
